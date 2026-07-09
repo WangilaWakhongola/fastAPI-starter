@@ -1,4 +1,4 @@
-# fastapi-starter
+# fastAPI-starter
 
 A minimal REST API built with FastAPI. Includes two example routes and auto-generated interactive documentation.
 
